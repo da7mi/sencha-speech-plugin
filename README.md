@@ -24,7 +24,8 @@ OK
 
 ## notice!!
 
-動作環境；Chrome系ブラウザ（iOS Safariでは動きません）
+動作環境；Sencha Touch Version 2.x  
+Chrome系ブラウザ（iOS Safariでは動きません）
 
 ## History
 
